@@ -1,11 +1,7 @@
 <!-- Profile README for ntkachenko21 -->
 
 <h1 align="center">Hi, I'm Nikita 👋</h1>
-<h3 align="center">🚀 Passionate Python Developer & AI Enthusiast</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=22&duration=2500&pause=1000&color=36BCF7&background=FFFFFF00&width=600&height=40&lines=Building+high-performance+APIs+with+Django+and+FastAPI;Remote+Freelancer+%7C+Open+Source+Lover" alt="Typing SVG" />
-</p>
+<h3 align="center">Python Developer & AI Enthusiast</h3>
 
 ---
 
@@ -22,12 +18,13 @@
 ### 🚀 Skills & Technologies
 
 **Languages & Frameworks**
-- Python (Advanced), Asynchronous Python (asyncio, aiohttp), OOP, Design Patterns, SOLID
+- Python (Advanced), Asynchronous Python (asyncio, aiohttp),
+- Object-Oriented Programming (OOP), Design Patterns, SOLID Principles
 - Django, Django ORM, DRF, FastAPI
 - JavaScript (Basics), TypeScript
 
 **Databases**
-- PostgreSQL, SQLite, MySQL, Redis, SQLAlchemy, Alembic
+- PostgreSQL, SQLite, MySQL, Redis, SQLAlchemy (ORM), Alembic (Database Migrations)
 
 **DevOps & Deployment**
 - Docker, Docker Compose, AWS (EC2, S3), DigitalOcean, NGINX, Gunicorn
@@ -36,14 +33,14 @@
 **Scraping & Parsing**
 - BeautifulSoup, Scrapy, Selenium
 
-**Authentication & Docs**
-- JWT, OAuth2, Swagger, ReDoc
+**Authentication & API Documentation**
+- Authentication (JWT, OAuth2), API Documentation (Swagger, ReDoc)
 
 **Payments & Integration**
 - Stripe API, Email (SMTP, SendGrid), REST APIs
 
 **Workflow & Testing**
-- Git/GitHub, Debugging (PDB, Django Debug Toolbar)
+- Git/GitHub, Debugging (PDB, Django Debug Toolbar),
 - Virtual Env (venv, pipenv, poetry)
 - Unit Testing (Pytest, Unittest), API Testing (Postman, DRF's APIClient), Coverage, Mocking
 
