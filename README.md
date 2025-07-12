@@ -65,9 +65,6 @@
 ### 📊 GitHub Stats & Widgets
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ntkachenko21&show_icons=true&theme=tokyonight&hide_title=true" alt="ntkachenko21 Github Stats" />
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ntkachenko21&theme=tokyonight" alt="ntkachenko21 GitHub Streak" />
 </p>
 <p align="center">
