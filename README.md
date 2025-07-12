@@ -60,6 +60,9 @@
 - [**Sushi Store**](https://github.com/ntkachenko21/sushi-store)\
   _E-commerce backend for a sushi shop, supporting order management, payments, and customer features._
 
+- [**ToDo List**](https://github.com/ntkachenko21/todo-list)\
+  _A responsive and accessible task management app with tagging, filtering, progress tracking, and real-time search functionality._
+  
 ---
 
 ### 📊 GitHub Stats & Widgets
