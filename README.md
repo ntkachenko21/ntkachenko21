@@ -45,7 +45,7 @@
 - Unit Testing (Pytest, Unittest), API Testing (Postman, DRF's APIClient), Coverage, Mocking
 
 **Other**
-- Celery + Redis, Caching, Recursive Queries
+- Celery + Redis, Caching, Recursive Queries, Ruff (Linter)
 
 ---
 
