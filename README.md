@@ -20,11 +20,15 @@
 **Languages & Frameworks**
 - Python (Advanced), Asynchronous Python (asyncio, aiohttp),
 - Object-Oriented Programming (OOP), Design Patterns, SOLID Principles
-- Django, Django ORM, DRF, FastAPI
+- Django, Django ORM, DRF, FastAPI, GeoDjango, django-filter
 - JavaScript (Basics), TypeScript
 
 **Databases**
-- PostgreSQL, SQLite, MySQL, Redis, SQLAlchemy (ORM), Alembic (Database Migrations)
+- PostgreSQL, PostGIS, SQLite, MySQL, Redis, SQLAlchemy (ORM), Alembic (Database Migrations)
+
+**GIS & Geospatial**
+- Spatial Queries & Indexing (e.g., Point, Distance, Bounding Box)
+- Geospatial Libraries (GDAL, GEOS)
 
 **DevOps & Deployment**
 - Docker, Docker Compose, AWS (EC2, S3), DigitalOcean, NGINX, Gunicorn
@@ -34,7 +38,7 @@
 - BeautifulSoup, Scrapy, Selenium
 
 **Authentication & API Documentation**
-- Authentication (JWT, OAuth2), API Documentation (Swagger, ReDoc)
+- Authentication (JWT, OAuth2.0), API Documentation (Swagger, ReDoc via drf-spectacular)
 
 **Payments & Integration**
 - Stripe API, Email (SMTP, SendGrid), REST APIs
@@ -50,6 +54,8 @@
 ---
 
 ### 🌟 Featured Projects
+- [**Geolocation API**](https://github.com/ntkachenko21/Geolocation-API)\
+  _A robust geospatial API built with Django and PostGIS that enables location-based searches, distance calculations, and geographical data management. Perfect for applications requiring proximity searches, location discovery, and spatial data analysis._
 
 - [**Online Cinema API**](https://github.com/ntkachenko21/online-cinema-api)\
   _A feature-rich RESTful API for an online cinema platform, built with FastAPI and async PostgreSQL integration._
