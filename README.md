@@ -90,16 +90,6 @@
 
 ---
 
-<details>
-  <summary>⚡ Fun Facts & Interests</summary>
-  
-  - I see recursion as a feature, not a bug, in my thinking. I love diving into complex tree data structures
-  - Bypassing Cloudflare and parsing dynamic JavaScript isn't just a task, it's a sport. The tougher the anti-bot protection, the more exciting the quest.
-  - AI, data science, and automation keep me motivated to learn more every day.
-</details>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ntkachenko21&color=blue" alt="ntkachenko21 profile views" />
 </p>
